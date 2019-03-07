@@ -1,2 +1,2 @@
 # Dev16TestSolutions
-Solutions created using VS 2017 for testing purposes
+Solutions created using VS 2019 for testing purposes
