@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31327.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp_v2_netcore21_HttpTrigger_AnonAuth_1", "FunctionApp_v2_netcore21_HttpTrigger_AnonAuth_1\FunctionApp_v2_netcore21_HttpTrigger_AnonAuth_1.csproj", "{EB27EC66-3C6C-4810-B505-F542F9C913DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB27EC66-3C6C-4810-B505-F542F9C913DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB27EC66-3C6C-4810-B505-F542F9C913DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB27EC66-3C6C-4810-B505-F542F9C913DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB27EC66-3C6C-4810-B505-F542F9C913DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DA03F8A-33B6-4B03-A4C1-D649F9A2EAB1}
+	EndGlobalSection
+EndGlobal
