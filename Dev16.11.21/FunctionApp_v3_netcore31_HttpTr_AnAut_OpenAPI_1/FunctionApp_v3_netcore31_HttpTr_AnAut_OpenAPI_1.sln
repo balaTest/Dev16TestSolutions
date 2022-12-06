@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp_v3_netcore31_HttpTr_AnAut_OpenAPI_1", "FunctionApp_v3_netcore31_HttpTr_AnAut_OpenAPI_1\FunctionApp_v3_netcore31_HttpTr_AnAut_OpenAPI_1.csproj", "{629C9F46-5B2F-4059-978F-F11694628B96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{629C9F46-5B2F-4059-978F-F11694628B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629C9F46-5B2F-4059-978F-F11694628B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629C9F46-5B2F-4059-978F-F11694628B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629C9F46-5B2F-4059-978F-F11694628B96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCAE142D-7CB8-4208-9170-A64E899C9E80}
+	EndGlobalSection
+EndGlobal
